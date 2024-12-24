@@ -1,5 +1,8 @@
 ### SYNCHRONOUS-UP-COUNTER
-
+```
+Developed By:Mirtyunjay S
+Register No: 24013065
+```
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
@@ -64,3 +67,6 @@ Developed by:Mirtyunjay S RegisterNumber:24013065
 
 
 **RESULTS**
+```
+Implement 4 bit synchronous up counter and validate functionality using quartus verified.
+```
